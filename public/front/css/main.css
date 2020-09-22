@@ -1,0 +1,30 @@
+		.demo {
+		    position: relative;
+		    top: -15px;
+			font-weight:bold;
+			color: red;
+			background: transparent;
+			text-align:left;
+		}
+	
+		.demo h2 { font-size:37px;  text-transform:uppercase; margin-bottom:0px;}
+		.demo h3 { font-size:30px;  text-transform:uppercase; margin-bottom:0px; padding: 1px; }
+		.char2,
+		#demo2 .word2,
+		.line2 { color: orange; }
+		.word3,
+		.line3 { color: yellow; }
+		.char4,
+		.line4 { color: blue; }
+		.char1 { color: red; font-size:45px; }
+		.char3 { color: indigo; }
+		.char5 { color: green; }
+		.char6 { color: indigo; font-size:40px; }
+		.char7 { color: violet; }
+		.char8 { color: green; }
+		.char9 { color: indigo; }
+		.char10 { color: violet; }
+		.logo { padding: 0; margin-bottom: 1px; width: 400px; }
+		.footer-coppyright { text-align: right; }
+		.error { color: red; }
+		.required { color: red; }

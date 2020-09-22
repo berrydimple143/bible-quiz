@@ -1,0 +1,1 @@
+<?php header("refresh: 1; https://onlinestorehouse.com/public/"); ?>
